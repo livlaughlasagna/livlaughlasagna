@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-**Pronouns:** she/they.
-
+😄**Pronouns:** she/they.
+ 🌱 **I’m currently learning**: CS student learning java with some prior knowledge from Assembly, Python and C.
+ 
 <!--
 **livlaughlasagna/livlaughlasagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
