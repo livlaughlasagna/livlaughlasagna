@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-😄**Pronouns:** she/they.
+- 😄**Pronouns:** she/they.
 - 🌱 **I’m currently learning**: CS student learning java with some prior knowledge from Assembly, Python and C.
  
 <!--
